@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩解頤
-#+DATE: 2015-09-23 09:36:49
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:05:36.539783
+#+PROPERTY: ID KR1c0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1c0034_WYG_003-1a>¶
 欽定四庫全書¶
 　詩解頤卷三¶
@@ -1244,4 +1246,3 @@
 厲王無道而宣王中興以宣王之有志也幽王無道而¶
 平王不復中興以平王之無志也噫此雅之所以亡而¶
 黍離之所以降於國風也¶
-

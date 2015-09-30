@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩解頤
-#+DATE: 2015-09-23 09:36:49
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:05:36.515037
+#+PROPERTY: ID KR1c0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1c0034_WYG_002-1a>¶
 欽定四庫全書¶
 　詩解頤卷二¶
@@ -1082,4 +1084,3 @@
 　¶
 　¶
 　詩解頤卷二¶
-

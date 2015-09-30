@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩解頤
-#+DATE: 2015-09-23 09:36:49
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:05:36.584956
+#+PROPERTY: ID KR1c0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋
 <pb:KR1c0034_WYG_005-1a>¶
 詩解頤跋¶
 詩經解頤一編先師文淵閣大學士一齋朱先生之所¶
@@ -16,4 +18,3 @@
 以廣其傳愚僭分章析類正其譌誤以便觀覽亦未必¶
 無小補云洪武三十五年嵗在壬午孟夏上瀚後學豐¶
 城丁隆謹識¶
-
